@@ -1,2 +1,2 @@
 var num = 50;
-Var truth = "hello flatter world"
+Var truth = "hello flat world"
